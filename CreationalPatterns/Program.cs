@@ -6,7 +6,9 @@ namespace CreationalPatterns
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            OnlineStore onlineStore = new OnlineStore();
+
+            onlineStore.ShowStore();
         }
     }
 }
