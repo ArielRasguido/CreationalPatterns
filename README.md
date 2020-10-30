@@ -2,6 +2,7 @@
 Tercer Laboratorio - Arquitectura de Software
 
 PROBLEMA:
+
 En una aplicación de una tienda online. La primera versión de la aplicación sólo es capaz de manejar cobros por trajeta de credito, por lo que la mayor parte del código se encuentra dentro de la clase CreditCard.
 
 Para añadir otros metodos de pago a la aplicación habría que hacer cambios en todo el código, cada vez que esto se quiera realizar.
